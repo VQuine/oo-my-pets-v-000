@@ -20,7 +20,7 @@ class Owner
   # def species
   #   @species
   # end
-  # 
+  #
   # def name
   #   @name
   # end
