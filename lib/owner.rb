@@ -17,13 +17,13 @@ class Owner
   end
 
 
-  def species
-    @species
-  end
-
-  def name
-    @name
-  end
+  # def species
+  #   @species
+  # end
+  # 
+  # def name
+  #   @name
+  # end
 
   def initialize(pets)
     @species = "human"
